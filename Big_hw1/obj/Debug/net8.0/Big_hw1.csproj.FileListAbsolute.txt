@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\kpo\Big_hw1\bin\Debug\net8.0\Big_hw1.exe
+C:\Users\Asus\Desktop\kpo\Big_hw1\bin\Debug\net8.0\Big_hw1.deps.json
+C:\Users\Asus\Desktop\kpo\Big_hw1\bin\Debug\net8.0\Big_hw1.runtimeconfig.json
+C:\Users\Asus\Desktop\kpo\Big_hw1\bin\Debug\net8.0\Big_hw1.dll
+C:\Users\Asus\Desktop\kpo\Big_hw1\bin\Debug\net8.0\Big_hw1.pdb
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.dll
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\refint\Big_hw1.dll
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.pdb
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\Big_hw1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\kpo\Big_hw1\obj\Debug\net8.0\ref\Big_hw1.dll
